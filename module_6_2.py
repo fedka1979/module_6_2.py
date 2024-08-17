@@ -35,7 +35,7 @@ vehicle1 = Sedan('Fedos', 'Toyota Mark II', 'blue', 500)
 
 vehicle1.print_info()
 
-vehicle1.set_color('pink')
+vehicle1.set_color('yellow')
 vehicle1.set_color('BLACK')
 vehicle1.owner = 'Vasyok'
 
